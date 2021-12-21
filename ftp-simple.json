@@ -1,0 +1,13 @@
+[
+	{
+		"name": "rallgeweb.com",
+		"host": "rallgeweb.com",
+		"port": 21,
+		"type": "ftp",
+		"username": "geraldine@rallgeweb.com",
+		"password": "#QUhF!7v@QajQoyO",
+		"path": "/",
+		"autosave": true,
+		"confirm": true
+	}
+]
